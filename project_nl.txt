@@ -1,0 +1,26 @@
+EEN PROJECT TOEVOEGEN =>
+Projecten worden geverifieerd voordat ze officieel worden gepubliceerd. =>
+
+NAAM VAN HET PROJECT: =>
+PROJECTBESCHRIJVING: =>
+UW LOGO: =>
+HEADER AFBEELDING: =>
+DE WHITEPAPER: =>
+DE TOKENOMICS: =>
+WEBSITE: =>
+TELEGRAM: =>
+BEKIJK GITHUB: =>
+DOCUMENTATIE: =>
+BEKIJK DOCUMENTATIE: =>
+OPSLAAN =>
+
+geeft de naam van het project aan =>
+geeft de link van uw logo aan =>
+Header met uw logo =>
+Uw afbeelding moet 600 px breed en 150 px hoog zijn. Gelieve de volledige link te vermelden =>
+geeft de link van uw tokenomics aan =>
+geeft de link van uw website aan =>
+geeft de link van de Twitter van het project aan =>
+geeft de link van de GitHub van het project aan =>
+geeft de telegramlink aan =>
+geeft de link van de projectdocumentatie aan =>

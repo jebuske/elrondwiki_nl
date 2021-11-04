@@ -1,0 +1,12 @@
+EEN VACATURE TOEVOEGEN =>
+ 
+  TITEL: =>
+  INHOUD: =>
+  TAGS: =>
+  CATEGORIE: =>
+ 
+  Eenvoudige presentatie =>
+  Projectwerving =>
+ 
+  Titel van de gezochte presentatie of job =>
+  Geef tags aan om jezelf gemakkelijk te vinden (vergeet de komma's tussen elk woord niet) =>

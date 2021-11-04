@@ -1,0 +1,161 @@
+MENU:
+
+Laatste nieuws =>
+Tutorials =>
+De strategieën =>
+De kosten =>
+De projecten =>
+Veelgestelde vraag =>
+Verwijzingsprogramma =>
+Veelgestelde vraag =>
+De tools =>
+Het woordenboek =>
+De community =>
+Officiële aankondigingen =>
+Diverse links =>
+Communityblog =>
+Anderen =>
+Over =>
+Nieuws =>
+Jobs =>
+
+
+Een kleine TIP? =>
+Over =>
+Inloggen =>
+
+Mijn profiel =>
+Schrijf een artikel =>
+Instellingen =>
+Een kleine TIP? =>
+Uitloggen =>
+Project toevoegen =>
+Voeg een vacature toe =>
+Verwijzingsprogramma =>
+
+HOME:
+
+HOME =>
+EGLD in omloop =>
+EGLD in staking =>
+EGLD totaal in circulatie =>
+Prijs EGLD =>
+
+Aankondiging =>
+Evenement =>
+Geen evenement :( =>
+laatste artikelen =>
+Klik hier =>
+Gepubliceerd door =>
+Lees het artikel =>
+
+TIPMODAAL:
+
+Tips worden gebruikt om Elrond wiki te financieren. =>
+Sluiten =>
+
+FOOTER:
+
+Project niet aangesloten bij =>
+
+MIJ:
+
+Website =>
+UW BIJDRAGEN =>
+titel =>
+Etat =>
+Bewerken =>
+
+Verificatie bezig =>
+Uw artikel is afgewezen =>
+Uw artikel is geaccepteerd =>
+
+Bekijk =>
+Bewerken =>
+
+CREËREN:
+
+EEN ARTIKEL SCHRIJVEN =>
+Artikelen voor de communityblog worden gecontroleerd voordat ze officieel worden gepubliceerd. =>
+TITEL VAN HET ARTIKEL: =>
+INHOUD VAN HET ARTIKEL: =>
+HOOFDBEELD: =>
+OPSLAAN =>
+Voeg een afbeelding toe (header) =>
+Uw afbeelding moet 600 px breed en 150 px hoog zijn. Gelieve de volledige link te vermelden =>
+Host je afbeelding =>
+
+INFORMATIE =>
+Om voor de titel van uw artikel te plaatsen =>
+[EDIT] = Je bent het artikel nog aan het bewerken. =>
+[GOOD] = Je bent klaar met je artikel, je vraagt ​​om verificatie. =>
+HOOFD AFBEELDING SJABLOON: =>
+Photoshop-compatibel =>
+Downloaden =>
+
+Oeps een of meer velden zijn leeg. =>
+
+INSTELLINGEN:
+
+JOUW TWITTER: =>
+UW TELEGRAM: =>
+UW WEBSITE: =>
+JOUW HEROTAG: =>
+THEMA KLEUR: =>
+VERBERG MIJN PROFIEL: =>
+
+ZICHTBAAR: =>
+JA =>
+NEE =>
+
+Donker =>
+Wissen =>
+
+Vul je gebruikersnaam in =>
+Geef de volledige link aan =>
+Geef de volledige herotag aan (bijvoorbeeld: olagdev.elrond) =>
+
+WIJZIG UW NAAM: =>
+WIJZIG JE BIO: =>
+
+Succesvol gewijzigd! =>
+Fout ! informatie ontbreekt. =>
+
+Fout! Te veel karakters. =>
+Fout ! Niet genoeg karakters. =>
+
+ZIJBALK:
+
+TUTORIAL =>
+Begrijp je niet hoe DEX (Maiar Exchange) werkt? =>
+klik hier =>
+
+u kunt controleren of u niet te maken heeft met oplichting =>
+BEKIJK NU =>
+
+BLOG:
+
+Delen =>
+
+VERKENNER INSTATEN:
+
+Naam =>
+NB Gebruikers =>
+NB Knooppunten =>
+Details =>
+
+GEMEENSCHAP:
+
+GEMEENSCHAP =>
+Word lid van de groep =>
+
+INFLUENCERS (NL) =>
+Hieronder staan ​​de mensen die over Elrond spreken. =>
+Volg =>
+
+KOSTEN:
+
+Kosten =>
+Deze gegevens zijn gebaseerd op de prijs van EGLD op $ 200 =>
+transacties =>
+Ontbreken er gegevens? contacteer ons =>

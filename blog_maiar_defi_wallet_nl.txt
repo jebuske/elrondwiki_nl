@@ -1,0 +1,14 @@
+CONFIGUREER MAIAR DEFI WALLET
+
+Deze tutorial zal je leren hoe je de Maiar Wallet-extensie configureert!
+
+Download de extensie (compatibel: Brave / Chrome / Edge): HIER.
+Voeg deze toe aan je browser en wacht tot deze opstart.
+Klik na installatie op "Create new wallet".
+Er verschijnt een pop-up, klik op "Autoriseren" en vervolgens op "ok".
+De MAIAR app zal je 24 woorden tonen. Bewaar deze op een veilige plaats (liefst niet digitaal/offline). Geef deze nooit aan vreemden. LET OP: HET VERLIES VAN DEZE WOORDEN KAN LEIDEN TOT HET VERLIES VAN JE FONDSEN!
+Zodra u deze woorden hebt opgeslagen (Op een veilige plaats!), klikt u op de optie "Ik bevestig dat ik mijn geheime zin heb opgeschreven en veilig opslaat.".
+De MAIAR app zal je vragen om de woorden nogmaals te bevestigen door deze in de correcte volgorde aan te duiden. We doen dit om zeker te zijn dat je je woorden hebt opgeslagen.
+Als u klaar bent, maakt u een wachtwoord om uw portemonnee te ontgrendelen en klikt u vervolgens op "Doorgaan".
+
+Goed gedaan! Je hebt je Maiar defi-portemonnee gemaakt.

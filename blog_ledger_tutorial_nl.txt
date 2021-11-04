@@ -1,0 +1,30 @@
+HANDLEIDING LEDGER HARDWARE WALLET =>
+
+
+U kunt uw EGLD veilig bewaren door de Elrond EGLD-app op uw Ledger Nano S- of Ledger Nano X-apparaat te installeren. We raden u aan een hardware wallet te gebruiken om grote hoeveelheden EGLD te beheren.
+
+Configuratie Ledger Wallet:
+Configureer uw Ledger-apparaat.
+Download de Ledger Live-app.
+Upgrade uw apparaat naar de nieuwste firmware.
+
+Installeer de Elrond EGLD-app op uw Ledger:
+Volg deze stappen om Elrond (EGLD) op uw Ledger te installeren.
+Open de Ledger Live-app.
+In het linker menu klikt u op "Manager".
+Verbind uw Ledger-apparaat en ontgrendel met uw pin-code.
+Autoriseer, indien nodig, de "manager" op uw apparaat door beide knoppen in te drukken.
+Zoek in de applicatiecatalogus naar "Elrond".
+Klik op de knop "Installeren" naast de Elrond-toepassing.
+Op uw Ledger-apparaat ziet u 'Verwerken' terwijl de app wordt geïnstalleerd.
+Super, je hebt alles perfect gedaan!
+
+Log in op uw Elrond-portemonnee met behulp van het Ledger-apparaat:
+Zorg ervoor dat uw Ledger-apparaat is aangesloten op uw computer.
+Log in op uw Ledger-apparaat.
+Ga naar de Elrond Network-app en open deze door op beide knoppen op uw apparaat te drukken.
+Ga in uw webbrowser naar https://wallet.elrond.com.
+Selecteer "Ledger" uit de verbindingsopties.
+Een "pop-up" venster zal u informeren dat uw Ledger verbinding wil maken. Autoriseer het door op "Verbinden" te klikken
+
+Goed gedaan ! uw Ledger is geconfigureerd.

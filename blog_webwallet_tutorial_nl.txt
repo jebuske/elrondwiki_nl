@@ -1,0 +1,26 @@
+MAAK EEN ELROND WEB-PORTEMONNEE
+
+Gebruik de wallet om EGLD op een veilige manier te verzenden, ontvangen en op te slaan. Deze wallet zorgt er ook voor dat je kan interacten met staking producten en andere pools uit het ecosysteem.
+
+Maak een nieuwe portemonnee:
+Ga naar https://wallet.elrond.com en lees de instructies aandachtig door.
+
+Klik op: "Creëer portemonnee"
+
+Bewaar je passphrase! Je bewaart deze best offline/fysiek op een veilige locatie. Deel deze passphrase nooit met vreemden. LET OP: VERLIES VAN JE PASSPHRASE KAN LEIDEN TOT HET VERLIES VAN JE FONDSEN.
+
+Je passphrase bestaat uit een volgorde van 24 woorden. Ze worden slechts één keer op uw scherm weergegeven en worden op geen enkele server of waar ook ter wereld opgeslagen. Je hebt maar één kans om ze te bewaren - doe dat nu.
+
+De volgende pagina is een test om te zien of u de passphrase daadwerkelijk hebt opgeslagen. Je zal gevraagd worden om de 24 woorden in de juiste volgorde aan te duiden. Wanneer je dit gedaan hebt klik je op enter.
+
+U bent één stap verwijderd van het verkrijgen van uw keystore-bestand. Versleutel het eerst met een wachtwoord. Zorg ervoor dat het het sterke type is, met 9 tekens, ten minste één hoofdletter, één $ ymb @ l en numb3r.
+
+Als u dit wachtwoord verliest, dan kunt u ENKEL een nieuw Keystore-bestand krijgen met uw passphrase.
+
+Gefeliciteerd! , je hebt een nieuwe wallet! Het bijbehorende Keystore-bestand is gedownload naar de plaats waar uw browser bestanden standaard opslaat. Het bestand heeft het eigenlijke portemonnee-adres als de standaardnaam, zoiets als "erd... .json". Je kunt het desgewenst hernoemen naar "something.json" om het gemakkelijker te beheren te maken.
+
+Toegang tot de portefeuille:
+
+Ga naar https://wallet.elrond.com/ en klik op “Access bestaande” Zorg ervoor dat de toegangsmethode “Keystore” is geselecteerd, klik op Browse en zoek uw keystore-bestand [erd1… .json ], voer vervolgens uw wachtwoord in en klik op "Toegang tot portemonnee".
+
+Goed gedaan ! U heeft nu toegang tot uw webportemonnee!

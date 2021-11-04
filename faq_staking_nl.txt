@@ -1,0 +1,23 @@
+WANNEER VALLEN MIJN UITSTAPBELONINGEN?
+De rewards worden elke dag om 16:30 UTC verdeeld. U ontvangt enkel rewards wanneer de nodes van uw staking provider door de blockchain werden gekozen.
+
+IK KRIJG EEN TRANSACTIEFOUT WANNEER IK MIJN REWARDS WIL CLAIMEN!
+Controleer of u genoeg EGLD beschikbaar heeft om de transactie te betalen.
+
+IK KRIJG EEN TRANSACTIEFOUT WANNEER IK MIJN REWARDS WIL RESETTEN!
+Controleer of u genoeg EGLD beschikbaar heeft om de transactie te betalen.
+
+HOE LANG DUURT DE STAKING?
+Je kunt zo lang blijven staken als je wilt. Er is voorlopig geen einddatum.
+
+KUNNEN WE UW BELONINGEN OPNIEUW STAKEN, OOKAL IS DE POOL 100% GEVULD?
+Ja, als uw beloningen naar dezelfde pool gaan (en als uw staking provider de optie heeft ingeschakeld). (Behalve voor de legacy delegatie waar dit niet mogelijk is).
+
+KAN IK MIJN REWARDS HERSTAKEN?
+Ja, u kunt uw beloningen zo lang herstaken als u wilt.
+
+HOE LANG IS DE COOLDOWN PERIODE VAN DE STAKING?
+De exit duurt 10 dagen. Let op! Gedurende deze 10 dagen ontvang je geen beloningen meer omdat je EGLD's niet meewerken aan het beveiligen van de blockchain.
+
+NA 10 DAGEN ZIJN MIJN FONDSEN NOG NIET TERUG IN MIJN WALLET!
+Na de 10 dagen moet je naar je wallet gaan en je exit uit de staking pool zelf afronden. Dit doe je door op de knop 'UNSTAKE' te klikken bij je staking provider.

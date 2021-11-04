@@ -1,0 +1,35 @@
+MIJN TOEPASSING HANGT VAST. HOE DAN IK DAT HERSTELLEN ?
+Je hoeft alleen maar je seed (passphrase) in de instellingen te herstellen en vervolgens de portemonnee te ontkoppelen (rode knop onderaan de instellingen). Als dit niet werkt, dan kan je de applicatie verwijderen en opnieuw installeren. Je kan je wallet opnieuw inladen door je passphrase in te voeren.
+
+ALS IK MIJN TELEFOON VERLIES, VERLIES IK DAN OOK MIJN FONDSEN?
+Als je je apparaat bent kwijtgeraakt, kun je je account herstellen naar een nieuw apparaat door je passphrase in te voeren. Probeer dit zo snel mogelijk te doen en verzend je fondsen naar een nieuwe wallet.
+
+IK HEB MIJN STAKING-BELONINGEN NIET ONTVANGEN
+Het kan gebeuren dat de nodes van uw staking provider niet zijn gekozen door de blockchain. Wanneer dit gebeurt ontvangt u tijdelijk geen beloningen.
+
+IK ZIE MIJN VRIENDEN NIET OP DE TOEPASSING
+Je vrienden moeten zichtbaar zijn volgens de door hun gekozen privacy instellingen en binnen de laatste 2 dagen actief geweest zijn.
+
+KAN IK MIJN HEROTAG WIJZIGEN?
+Zodra je je @herotag hebt geclaimd, kun je deze niet meer wijzigen. Omdat de herotag Elrond Distributed Name Service (EDNS) gebruikt en is geregistreerd op de blockchain.
+
+HOEVEEL KOST HET GEBRUIK?
+Maiar is gratis te downloaden en te gebruiken. Het Elrond-netwerk heeft echter minimale kosten (zo laag als $ 0,001 per transactie) voor betalingen om de veiligheid en snelheid van transacties te garanderen.
+
+KAN IK MIJN SEED MAIAR GEBRUIKEN OM IN TE LOGGEN OP DE MAIAR WEB EXTENSION?
+Ja, u kunt uw Maiar Seed (Applicatie) gebruiken om verbinding te maken met de Maiar Wallet-extensie. Uit veiligheidsoverwegingen wordt het echter aanbevolen om deze portefeuilles gescheiden te houden.
+
+KAN IK MIJN SEED VAN MAIAR GEBRUIKEN VOOR HET GEBRUIK VAN EEN LEDGER HARDWARE WALLET?
+Ja, dat kan, maar het wordt voor de veiligheid aanbevolen om deze wallets gescheiden te houden.
+
+WAAR WORDEN BADGES VOOR GEBRUIKT?
+Dit zijn slechts badges voor Maiar's adoptie.
+
+IS ER EEN VOORDEEL WANNEER JE LEVEL VERHOOGT?
+Nee, momenteel zijn er geen bijkomende voordelen aan het hebben van een hoger level.
+
+WAT MOET IK DOEN OM MIJN LEVEL TE VERHOGEN?
+Gebruik gewoon de app, maak transacties, sponsor vrienden of leden van de community.
+
+IS ER EEN VOORDEEL AAN HET SPONSOREN VAN VRIENDEN OF LEDEN?
+JA, u kunt EGLD verdienen elke keer dat uw verwijzing de applicatie gebruikt (door transacties uit te voeren). U vindt een gedetailleerd overzicht in de instellingen => Verwijzing. Deze beloningen worden elke maandag uitgedeeld.

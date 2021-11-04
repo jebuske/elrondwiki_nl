@@ -1,0 +1,55 @@
+Hoe werkt het Maiar Referral Programma?
+
+Het Verwijzingsprogramma is gemaakt om de gebruikers van Maiar te belonen voor wat ze al deden: Maiar aanbevelen aan hun familie, vrienden en volgers.
+Er zijn een aantal manieren om crypto te verdienen via het Maiar Referral Program:
+
+Verwijzers: u kunt uw vrienden uitnodigen om Maiar te installeren en lid te worden. Je verdient een beloning elke keer dat ze crypto kopen in de app.
+Genodigden: u kunt een eenmalige (cashback)beloning verdienen als u eGold ter waarde van 200 USD of meer koopt. Om in aanmerking te komen voor deze eenmalige (cashback)beloning, moet u een geldige verwijzingscode gebruiken wanneer u uw account voor het eerst aanmaakt.
+
+Hoeveel kan ik verdienen?
+
+Verwijzers ontvangen 100% van Maiar's commissies op alle aankopen die door uw verwijzingen zijn gedaan gedurende een jaar na hun registratie, als uw verwijzingen eGold kopen, en 50% van Maiar's commissies voor alle andere cryptovaluta (exclusief eGold).
+Als genodigde kunt u een eenmalige beloning krijgen van het equivalent van 10 USD in eGold wanneer u 200 USD of meer eGold koopt. De drempel van 200 USD kan worden "ontgrendeld" met een enkele aankoop of meerdere aankopen.
+
+De commissie van Maiar is 0,5% op aankopen met een creditcard of bankoverschrijvingen. U komt dus in aanmerking voor 0,5% van elke aankoop van eGold die uw verwijzingen verdienen, ongeacht hoeveel ze kopen, gedurende een jaar na hun registratie.
+U komt ook in aanmerking voor 0,25% van elke aankoop van andere cryptovaluta naast eGold die uw verwijzingen maken gedurende 1 jaar nadat ze zich hebben aangemeld.
+
+U merkt misschien dat de totale aankoopkosten hoger zijn dan de commissie van Maiar. Deze bevatten ook de extra verwerkingskosten van de betalingsprovider,
+inclusief bijvoorbeeld netwerkkosten voor het overdragen van crypto, kosten die in rekening worden gebracht door onze externe betalingsprovider.
+Deze vergoedingen komen niet in aanmerking voor dit verwijzingsprogramma.
+
+Wanneer krijg ik mijn beloningen?
+Alle beloningen worden eenmaal per week verzonden. U kunt ook het scherm Verwijzingsbeloningen bekijken, waar een geschiedenis is van alle beloningenbetalingen en uw lopende beloningen. Zodra de beloningen zijn verzonden, wordt het aantal in behandeling zijnde beloningen teruggezet naar 0.
+
+Verwijzingsbeloningen zijn anoniem en zeggen alleen dat er een verwijzingsbeloning in behandeling is in afwachting van uitbetaling.
+
+Hoe krijg ik mijn beloningen?
+Alle beloningen (cashback en verwijzing) worden verzonden in eGold en worden rechtstreeks verzonden naar het Maiar-portemonneeadres dat is gekoppeld aan uw verwijzingscode/link.
+
+De eGold-naar-Amerikaanse dollar-wisselkoers voor elke wekelijkse beloningsbetaling is de EGLD-munten naar USDT-wisselkoers zoals gerapporteerd door Coinmarketcap.com om 23:59 uur UTC-tijd op de dag onmiddellijk voorafgaand aan de betalingsdatum,
+zoals te goeder trouw door Maiar bepaald.
+
+Hoe registreer ik me met een verwijzingslink?
+Klik eenvoudig op een verwijzingslink, voer uw telefoonnummer in en klik vervolgens op de downloadlink die u naar de App Store of Google Play brengt. Nadat u Maiar hebt geïnstalleerd, zou u tijdens het registratieproces "Verwijzingscode toegepast" moeten zien.
+
+Als u op de link hebt geklikt en "Verwijzingscode toegepast" niet ziet op het invoerscherm voor het telefoonnummer, moet u de verwijzingscode handmatig invoeren. Tik op "Heeft u een verwijzingscode?" en pas daar de verwijzingscode of de uitnodigingslink toe.
+
+Een verwijzingscode ziet er als volgt uit: ma1are3d1x
+
+Een verwijzingslink ziet er als volgt uit: https://get.maiar.com/referral/ma1are3d1x
+
+Je kunt ze allemaal gebruiken.
+
+Wie komt in aanmerking voor het Referral Program?
+Het verwijzingsprogramma kan alleen worden toegepast op nieuwe accounts die een verwijzingscode hebben gebruikt bij het aanmaken van het account. De verwijzingscode kan niet worden gewijzigd of toegevoegd nadat het account is aangemaakt.
+
+De cashback-beloningsaanbieding vervalt 30 dagen na het aanmaken van een account als er geen aankoop van eGold is gedaan.
+
+Welke aankopen komen in aanmerking voor het verwijzingsprogramma?
+Alleen aankopen die zijn gedaan via MoonPay, Transak en Ramp in de Maiar-app komen in aanmerking.
+
+De aankoop van eGold, voor de eenmalige cashback-beloning, moet binnen 30 dagen na registratie worden gedaan met een verwijzingslink.
+
+Aankopen voor doorverwezen beloningen moeten worden gedaan tijdens het eerste jaar na de registratie van de doorverwezen personen.
+
+De algemene voorwaarden van het verwijzingsprogramma zijn hier te vinden als onderdeel van de gebruikersovereenkomst en voorwaarden.
