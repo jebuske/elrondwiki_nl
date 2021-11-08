@@ -1,0 +1,29 @@
+Stappen om deel te nemen:
+
+    Log in met je wallet.
+    Klik hier (Als de omleiding naar het e-mailformulier niet werkt)
+    Vul je e-mailadres in en klik op bevestigen.
+    Ga naar je mailbox en klik op de validatielink.
+    Klik vervolgens op "Doorgaan met KYC".
+    Voltooi het KYC proces door de stappen te volgen en de nodige documenten te uploaden.
+
+Informatie: Als u verbinding maakt met uw ledger, vergeet dan niet om deze te updaten.
+
+* Gebruikers uit de volgende landen kunnen niet deelnemen aan de verkoop van tokens op het Maiar Launchpad-platform: Afghanistan, Angola, Wit-Rusland, Bosnië-Herzegovina, Burkina Faso; Burundi, Kaaimaneiland, Centraal-Afrikaanse Republiek, Volksrepubliek China, Congo (DRC), Ivoorkust, Cuba, Colombia, Ecuador, Egypte, Eritrea, Ethiopië, Guinee, Guinee-Bissau, Guyana, Haïti, Iran, Irak, Kosovo, Laos, Libanon, Liberia, Libië, Macedonië, Malediven, Mali, Marokko; Myanmar, Nigeria, Noord-Korea, Panama, Pakistan, Papoea NG, Republiek van de Krim, Servië, Somalië, Sri Lanka, Senegal; Soedan, Zuid-Soedan, Syrië, Trinidad en Tobago, Tunesië, Turkmenistan, Oeganda, Oekraïne, Verenigde Staten, Oezbekistan, Vanuatu, Venezuela, Jemen, Zimbabwe.
+
+De evenementenkalender:
+
+    Van 4/11 tot 21/11: KYC
+    22-11: Snapshot op een willekeurig tijdstip om de hoeveelheid gestakete/gedelegeerde eGLD-tokens te bepalen.
+    23-11: berekening van het maximale aantal loten waarop de gebruiker recht heeft> Deze worden geregistreerd in het smartcontract van de launchpad.
+    24/11 om 15.00 uur UTC: Start verkoop van de tickets voor de loterij (24 uur open).
+    25-11 om 15.00 uur UTC: kaartverkoop sluit, trekking en bekendmaking van winnende tickets.
+    26-11 om 15.00 uur UTC: Winnende tickets kunnen hun RIDE-tokens claimen
+
+Bent u niet geselecteerd in de loterij, dan krijgt u de gekochte tickets terugbetaald.
+
+Het aantal tickets hangt af van het aantal EGLD's dat u staket op de Maiar APP of in de Elrond Wallet:
+
+    Lees meer over het Holoride-project: Hier
+    Presentatie in het Engels: Hier
+    Veelgestelde vragen Maiar Launchpad: Hier

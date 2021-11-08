@@ -1,0 +1,39 @@
+De basis van elke blockchain is de virtuele machine (VM).
+Wat is een virtuele machine en waarin verschilt de VM van Elrond-netwerk?
+
+In wezen is de virtuele machine van een blockchain de rekenlaag van een blockchain. Hiermee kan code worden gelezen, doorgegeven en uitgevoerd.
+Het is het onderdeel 'World Computer' van Ethereum. Het stelt een blockchain in staat om als een virtuele computer te fungeren en smart contracts uit te voeren.
+
+Elrond's Virtual Machine, #Arwen, gebruikt zijn eigen op maat gemaakte K Framework-backend en is gebouwd op WASM.
+Hierdoor kan het drie assembly talen ondersteunen: IELE VM (LLVM ingebouwd in K), KEVM (Ethereum Virtual Machine ingebouwd in K) en WASM
+https://runtimeverification.com/blog/elrond-gets-new-secure-dev-tooling-and-a-formal-semantics
+
+Hierdoor kunnen Smart Contracts in elke populaire programmeertaal worden geschreven. Bovendien is Arwen Ethereum Virtual Machine(EVM) compatibel, dit betekent niet alleen dat smart contracts, geschreven voor het ethereum netwerk, ook op Elrond zullen werken maar ook dat er interoperationaliteit zal zijn tussen beide blockchains.
+
+Arwen heeft configureerbare kosten per individuele WASM-bewerkingscode. Dit betekent dat gas kosten op Elrond arbitrair zijn en via governance kunnen worden gewijzigd.
+Bij onboarding van gebruikers of in andere specifieke gevallen zijn er ook metatransacties mogelijk. Deze metatransacties kunnen zonder gas kosten gebeuren.
+
+Elrond is gebouwd met gegarandeerde interoperabiliteit tussen ketens. Er is geen limiet aan communicatiekanalen die kunnen worden gecreëerd tussen elrond en andere software.
+Door gebruik te maken van adapters wordt interoperabiliteit op VM-niveau geïmplementeerd. Smart contracts nemen native tokens in bewaring en geven gekoppelde ESDT's uit.
+
+Arwen is zo snel en zo veilig mogelijk gebouwd, zonder smart contracts te beperken.
+De Elrond IDE biedt #developers de mogelijkheid om in Rust geschreven contracten te debuggen, met een Rust-framework dat efficiënte Smart contract-code mogelijk maakt.
+BUIDL https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide
+
+Arwen is een staatloze virtuele machine. Terwijl een smart contract wordt uitgevoerd, mag het niet naar de blockchain of naar de opslag schrijven.
+In plaats daarvan worden wijzigingen pas toegepast wanneer het smart contract succesvol werd uitgevoerd.  Hierdoor moeten er geen bewerking worden teruggedraaid en zal de snelheid verhogen.
+
+Een smart contract kan indien nodig door Arwen worden stopgezet. Arwen runt zijn eigen processen, los van een node.
+De twee wisselen informatie uit via een verzameling ‘anonymous pipes’ (opgeslagen in het geëmuleerde Random Access Memory). Dit verhoogt de stabiliteit en veiligheid.
+
+Intrashard Smart Contracts kunnen elkaar zonder vertraging oproepen.
+Met Adaptive State Sharding kunnen smart contracts ook andere smart contracts aanroepen die zijn opgeslagen door een andere shard (asynchroon).
+Dit wordt afgehandeld door de Arwen VM, zodat ontwikkelaars zich geen zorgen hoeven te maken over shards.
+
+Dit alles zorgt voor een naadloze codeer ervaring voor elke ontwikkelaar, een performante en efficiënte wereldcomputer,
+een interoperabele keten zonder communicatiebeperkingen en een verbeterde Ethereum 2.0 klaar om te integreren; gecombineerd met MEX's bootstrapped liquiditeit.
+
+Er is geen limiet aan de mogelijkheden van Elrond. Nieuwe technologieën zullen ontstaan ​​naarmate creatieve geesten blijven bouwen op het netwerk.
+Veel aspecten van de wereld, zoals we die kennen, zullen fundamenteel worden veranderd dankzij de kracht van blockchain.
+
+Bron: @CryptoTechs (Twitter)
